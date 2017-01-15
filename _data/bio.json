@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "erik-huang",
-        "url": "http://github.com/erik-huang"
+        "username": "erikhuan",
+        "url": "http://github.com/erikhuan"
       },
       {
         "network": "linkedin",
-        "username": "Erik Huang",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "erik-huang",
+        "url": "http://linkedin.com/in/erik-huang"
       }
     ]
   },
