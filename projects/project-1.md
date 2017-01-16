@@ -6,9 +6,8 @@ title: Just A Snurt
 permalink: projects/snurt
 date: 2016-present
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - Video Game
+  - Pixel Art
 summary: A metroidvania game in the works.
 ---
 
