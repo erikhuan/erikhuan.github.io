@@ -2,17 +2,16 @@
 layout: project
 type: project
 image: images/snurt.png
-title: Just A Snurt
+title: A Snurt
 permalink: projects/snurt
 date: 2016-present
 labels:
-  - Video Game
   - Pixel Art
-summary: A metroidvania game in the works.
+  - MS Paint
+  - Video Game
+summary: The snurt, a common enemy.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/snurt.png">
-</div>
+<img class="ui medium right floated rounded image" src="/images/snurt.png">
 
-Just a common enemy.
+Snurts are resilient creatures that adapt to nearly any environment.
