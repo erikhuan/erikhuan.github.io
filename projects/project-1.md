@@ -4,7 +4,7 @@ type: project
 image: images/snurt.png
 title: A Snurt
 permalink: projects/snurt
-date: 2016-present
+date: 2016
 labels:
   - Pixel Art
   - MS Paint
