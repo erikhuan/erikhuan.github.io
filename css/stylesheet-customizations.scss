@@ -7,16 +7,16 @@
 
 // Customize the background color
 body {
-   background-color: lavendar;
+   background-color: lightpurple;
 }
 
 // Customize the menubar color
 .ui.menu {
-   background: lightpurple;
+   background: complement(lightpurple);
 }
 
 // Customize the home page icon colors
 .icon-color {
-   color: darken(lavendar, 20%);
+   color: darken(lightpurple, 20%);
 }
 
