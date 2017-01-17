@@ -65,6 +65,20 @@
       ]
     }
   ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Chinese (Mandarin)",
+      "fluency": "Fluent (Verbally Only)"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Moderate"
+    }
+  ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
