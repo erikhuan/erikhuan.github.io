@@ -12,6 +12,6 @@ labels:
 summary: The snurt, a common enemy.
 ---
 
-<img class="ui medium right floated rounded image" src="/images/snurt.png">
+<img class="ui medium right floated rounded image" src="/images/snurt_head_animation_test.gif">
 
-Snurts are resilient creatures that adapt to nearly any environment.
+Snurts are resilient creatures that adapt to nearly any environment. Here is a gif of its moving animation that I made.
