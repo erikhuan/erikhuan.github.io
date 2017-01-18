@@ -11,7 +11,7 @@ labels:
 summary: My YouTube channel.
 ---
 
-<iframe width="800" height="600" align="middle" src="https://www.youtube.com/embed/J-f9NHxjcnY"></iframe>
+<iframe width="800" height="450" align="middle" src="https://www.youtube.com/embed/J-f9NHxjcnY"></iframe>
 
 This is my gaming YouTube channel. Through making livestream videos I hope to be able to improve my communcation skills by being able to make conversation with an audience that isn't necessarily always there.
 
