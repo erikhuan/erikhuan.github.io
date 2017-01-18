@@ -12,12 +12,10 @@ class I have had some JavaScripting experience already, so performing the freeco
 exercises was a good refresher as to how I should be coding. During the exercises I did learn to do a few
 things that I did not know how prior such as learning about the Strict Equality Operator and shift/unshift
 functions.
-
 ```
 3 === 3   // true
 3 === '3' // false
 ```
-
 ```
 // Example
 var ourArray = ["Stimpson", "J", "cat"];
@@ -34,7 +32,6 @@ myArray.shift();
 myArray.unshift(["Paul", 35]);
 // myArray is now [["Paul", 35],["dog", 3]]
 ```
-
 So far with my experience with JavaScript I think it is a good programming language because it is easy to
 learn and use. There are also efficient ways to write your code as I have learned from the Airbnb JavaScript
 Style Guide https://github.com/airbnb/javascript.
