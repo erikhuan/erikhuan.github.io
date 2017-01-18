@@ -12,6 +12,6 @@ labels:
 summary: The Anime Manga Society (AMS) is a social club that invites people to enjoy anime.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/AMS-Logo-Modern-Small-1.png">
+
 
 The Anime Manga Society (AMS) is a social club on the University of Hawaii at Manoa campus that normally hosts meetings every Thursday and Friday.
