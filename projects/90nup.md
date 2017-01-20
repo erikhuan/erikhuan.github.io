@@ -10,7 +10,7 @@ labels:
   - Tabletop
   - RPG
   - Podcast
-summary: 
+summary: A podcast among friends explaining the mechanics of this table top RPG.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/anima.jpg">
