@@ -14,11 +14,14 @@ things that I did not know how prior such as learning about the Strict Equality 
 functions.
 
 ```
+
 3 === 3   // true
 3 === '3' // false
+
 ```
 
 ```
+
 // Example
 var ourArray = ["Stimpson", "J", "cat"];
 ourArray.shift(); // ourArray now equals ["J", "cat"]
@@ -33,6 +36,7 @@ myArray.shift();
 
 myArray.unshift(["Paul", 35]);
 // myArray is now [["Paul", 35],["dog", 3]]
+
 ```
 
 So far with my experience with JavaScript I think it is a good programming language because it is easy to
