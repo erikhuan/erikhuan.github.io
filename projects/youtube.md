@@ -21,7 +21,7 @@ summary: My YouTube channel.
 
   Below I've included one of my recent videos playing through a section of Assassin's Creed Syndicate. If you would like to see more feel free to check out my <a href="https://www.youtube.com/channel/UCVor_a0Czn-3QzytiYLRQWg">YouTube channel</a> or click the link at the bottom.
 
-<iframe width="400" height="225" align="middle" src="https://www.youtube.com/embed/J-f9NHxjcnY"></iframe>
+<iframe width="800" height="450" align="middle" src="https://www.youtube.com/embed/J-f9NHxjcnY"></iframe>
 
 ## So Far
 
