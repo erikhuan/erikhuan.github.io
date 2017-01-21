@@ -14,7 +14,7 @@ summary: The snurt, a common enemy.
 
 ## What is a Snurt?
 
-<img class="ui medium floated rounded image" align="middle" src="/images/snurt_head_animation_test.gif">
+<img class="ui medium right floated rounded image" src="/images/snurt_head_animation_test.gif">
 
 Snurts are resilient creatures that adapt to nearly any environment. Here is a gif of its moving animation that I made. This is one of many enemies I plan on making and designing to implement in my metroidvania game that I'm trying to develop in my free time.
 
