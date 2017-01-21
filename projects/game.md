@@ -18,7 +18,7 @@ Snurts are resilient creatures that adapt to nearly any environment. Here is a g
 
 This is one of many enemies I plan on making and designing to implement in my metroidvania game that I'm trying to develop in my free time.
 
-##Story
+## Story
 
 For those who do not know what I mean when I say "metroidvania" the term is derived from two game titles: Metroid and Castlevania. It is a subgenre of action-adventure games that generally have a large interconnected world map that players can explore. Power-ups, collectables, and other tools are hidden across the world that players can find to help them in their quest.
 
