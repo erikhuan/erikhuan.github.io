@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The Language of UI Frameworks
+title: Why Web Pages Look Nice
 date: 2017-02-22
 labels:
   - Web Development
