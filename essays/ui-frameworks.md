@@ -13,7 +13,12 @@ labels:
 
 The impact of using a UI framework when developing a website could mean the difference of having a Windows 95 interface to a Windows 10's.
 
-(Put image comparison here)
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/windows95.jpg">
+</div>
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/windows10.png">
+</div>
 
 Simply put, raw css and html can only get you so far when making an attractive website. Using a framework gives the programmer an easier time developing a webpage at the cost of needing to learn said framework; and there are a lot of different frameworks out there. However, all these different frameworks are maybe 80~90% similar so learning the first one is a big step that will open the door to many other frameworks.
 
