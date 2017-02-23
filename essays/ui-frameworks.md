@@ -25,7 +25,7 @@ Simply put, raw css and html can only get you so far when making an attractive w
 
 ## Bootstrap
 
-My first framework that I learned was <a src="https://github.com/erikhuan/ics415F15">Bootstrap</a>. I never really went into depth with the language, but what I did learn from using it was how easy it was to make columns on pages and just structuring the layout in general. Bootstrap allowed me to make simple webpages that were responsive to how large the screen size was for the user. If the user shrank their window the webpage would accomodate for the size and rearrange the contents on the page to fit the window. However, looking back at my code there are a lot of different tags listed throughout my html files. While it might be useful to immediately what a certain line does, needing to remember what tag to use while programming could get confusing.
+My first framework that I learned was <a href="https://github.com/erikhuan/ics415F15">Bootstrap</a>. I never really went into depth with the language, but what I did learn from using it was how easy it was to make columns on pages and just structuring the layout in general. Bootstrap allowed me to make simple webpages that were responsive to how large the screen size was for the user. If the user shrank their window the webpage would accomodate for the size and rearrange the contents on the page to fit the window. However, looking back at my code there are a lot of different tags listed throughout my html files. While it might be useful to immediately what a certain line does, needing to remember what tag to use while programming could get confusing.
 
 ## Semantic UI
 
