@@ -10,7 +10,7 @@ labels:
 
 ## Meteor and Semantic UI
 
-If you are like me and you just recently started learning Semantic UI, you will probably realize that a lot of your HTML tags are going to be mainly divs. When coding with Meteor, specifically in Intellij, this poses some problems. Normally if you wanted to declare say a form with Semantic UI you could type,
+If you are like me and just recently started learning Semantic UI, you will probably realize that a lot of your HTML tags are going to be mainly divs. When coding with Meteor, specifically in Intellij, this poses some problems. Normally if you wanted to declare say a form with Semantic UI you could type,
 
 ```
 <div class="ui form">
@@ -34,4 +34,4 @@ And poof, you have an input field and a submit button right underneath it. Howev
 </form>
 ```
 
-I learned this the hard way... After finishing my webpage I tried to test it by inputing some data and submitting it, but nothing happened. I was stuck there for the longest time figuring out why nothing worked when I followed some example code from the Semantic UI website. It was only until after I asked for help did someone point out that I needed to declare my submit button with the button tags. On Semantic UI's Form website page, the first example is using button tags, but all other examples afterwards use div tags. I found this odd since I was trying to learn Semantic UI and the examples themselves were actually slightly misleading. 
+I learned this the hard way... After finishing my webpage I tried to test it by inputing some data and submitting it, but nothing happened. I was stuck there for the longest time figuring out why nothing worked when I followed some example code from the Semantic UI website. It was only until after I asked for help did someone point out that I needed to declare my submit button with the button tags. On <a href="http://semantic-ui.com/collections/form.html">Semantic UI's Form</a> website page, the first example is using button tags, but all other examples afterwards use div tags. I found this odd since I was trying to learn Semantic UI and the examples themselves were actually slightly misleading. 
