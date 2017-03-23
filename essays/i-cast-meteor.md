@@ -19,3 +19,7 @@ Earlier I said that Meteor supports the wizard with other spells. This is a stre
 ## My Meteor
 
 My personal experience with Meteor has not been frustrating, but challenging nonetheless. With Intellij and eslint catching my errors, the only thing making my spellcasting time difficult is performing a task that I have yet to learn. Recently my wizard instructor has recommended I learn about his <a href="https://bowfolios.github.io/">bowfolios</a> tutorial. The hope is that learning this will help me get better at designing websites.
+
+## What I like about Meteor
+
+Meteor is a really powerful spell that makes developing websites relatively easy. As a novice mage it was amazing that I could make something modern looking with little training in HTML and Javascript. I like that Meteor now makes a client and server file to keep their relavent code separate. It's modular way of organizing files means that we can reuse pieces of code when we need it and makes it easy to detect errors. However, this also means it is the wizard's responsibility to make sure all the imports and exports are in place, otherwise our Meteor may just end up smoke and flame. Overall as someone who has never really developed websites before, using Meteor really gives me confidence that I can make a website of my own as long as I give it some time, effort, and making sure my Javascripts are doing what they are supposed to.
