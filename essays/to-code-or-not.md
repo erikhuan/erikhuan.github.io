@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: To Code or Not to Code
-date: 2017-05-1
+date: 2017-05-01
 labels:
   - Software Engineering
   - Ethics
