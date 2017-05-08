@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: My Interests in Coding
+title: Why am I even Coding
 date: 2017-01-21
 labels:
   - Interests
@@ -19,4 +19,4 @@ So far in the time I have spent learning computer science I have learned that ma
 
 ## What I Hope to Learn
 
-As of this writing I'm slowly trying to learn Unity in my free time. I also hope to learn more about how to develop and improve websites and learn about other open source programs that can help me make video games. By the end of 2017 I hope to improve my skills as a game developer whether it is through coding  or artwork.
+As of this writing I'm slowly trying to learn Unity in my free time. I also hope to learn more about how to develop and improve websites and learn about other open source programs that can help me make video games. By the end of 2017 I hope to improve my skills as a game developer whether it is through coding or artwork.

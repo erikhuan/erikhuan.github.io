@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Reflect on Smart Questions
+title: Ask the Right Questions, Get Right Answers
 date: 2017-01-26
 labels:
   - StackOverFLow

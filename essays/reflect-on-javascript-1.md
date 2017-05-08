@@ -1,12 +1,15 @@
 ---
 layout: essay
 type: essay
-title: Reflecting on Javascript
+title: Javascript is Rather Nice
 date: 2017-01-18
 labels:
   - Javascript
   - Learning
 ---
+
+## Baby Steps
+
 Writing JavaScript has been for the most part fairly simply and straight forward in coding. Prior to this
 class I have had some JavaScripting experience already, so performing the freecodecamp.com JavaScript
 exercises was a good refresher as to how I should be coding. During the exercises I did learn to do a few
@@ -35,12 +38,14 @@ myArray.unshift(["Paul", 35]);
 // myArray is now [["Paul", 35],["dog", 3]]
 ```
 
+## My Thoughts
+
 So far with my experience with JavaScript I think it is a good programming language because it is easy to
 learn and use. There are also efficient ways to write your code as I have learned from the Airbnb JavaScript
 Style Guide https://github.com/airbnb/javascript.
 
-As for the practice WODs, they are certainly useful. If I find myself taking too long on a piece of code
-then I definitely should be looking for help on understanding it. The video showing the solution is very
+My software programming course that I'm currently taking as of this writing is also providing "Workout Of the Day" (WODs) that help with learning the basics as well as working under time constraints. If I find myself taking too long on a piece of code
+then I definitely should be looking for help on understanding it. There are videos showing the solution which is very
 helpful because even if I did successfully write the code in a reasonable amount of time, it may not be
 the same way the video coded the solution. This gives me a different perspective of the problem and helps
 me to be a better programmer. Although still too early to tell, the WODs are not very stressful yet, but I
