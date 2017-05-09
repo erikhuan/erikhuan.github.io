@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/YouTube-logo.png
-title: Erik's Gaming Channel
+title: HeiMao's Gaming Channel
 permalink: projects/youtube
 date: 2016
 labels:
@@ -27,5 +27,13 @@ Below I've included one of my recent videos playing through a section of Assassi
 
 Streaming my playthroughs has been something I've been wanting to get around to since "Let's Plays" began to get popular. However, I did not have any proper equipment or software to record my gameplay until I purchased a PS4. Sony's console has a built in Share feature that allows users to easily record or livestream their gameplay. With this all I have to do is push and button and start playing. It has really made it easy to do these livestream videos and I hope I'll get enough footage to maybe compile a "Best of" video or something similar in the future.
 
-<a href="https://www.youtube.com/channel/UCVor_a0Czn-3QzytiYLRQWg"><i class="large youtube icon "></i>Erik Huang's YouTube Channel</a>
+## Updates 5/9
+
+I've aquired a new microphone and capture card, and my video quality has improved greatly. Here's my most recent video.
+
+<iframe width="800" height="450" align="middle" src="https://www.youtube.com/watch?v=peP6PO-TVcU"></iframe>
+
+No longer do I have the PS4's side chat display, and my video quality is in wonderful 1080 HD. It feels great.
+
+<a href="https://www.youtube.com/channel/UCVor_a0Czn-3QzytiYLRQWg"><i class="large youtube icon "></i>HeiMao's YouTube Channel</a>
 
