@@ -23,7 +23,7 @@ Creating this website was much more difficult than I initially had thought. I wa
 
 First off I should explain that the template we started with was really inefficient and that in hindsight we should have switched it over much earlier while we still could. But we stuck with what we had. Getting the Market page to load properly was not even the difficult part for me. I kept running into small errors that just made my build not work at all. It was really frustrating and funny to find where the problem was, but it did not change the fact that I wasn't getting a lot of work done at all. Eventually I was able to make the Market page like so.
 
-<img src="../images/market.png">
+<img class="ui large image" src="../images/market.png">
 
 It looked good, the Category tags were working and the two test items I had reacted properly. If only I had more time I could try figure out how to properly display each individual item in their own page. I imagine the code would be something like looping through the database and finding the matching item, then sending that to a template that would propagate the Item page with all the correct information.
 
