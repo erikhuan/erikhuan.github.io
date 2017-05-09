@@ -29,11 +29,7 @@ Streaming my playthroughs has been something I've been wanting to get around to 
 
 ## Updates 5/9
 
-I've aquired a new microphone and capture card, and my video quality has improved greatly. Here's my most recent video.
-
-<iframe width="800" height="450" align="middle" src="https://www.youtube.com/watch?v=peP6PO-TVcU"></iframe>
-
-No longer do I have the PS4's side chat display, and my video quality is in wonderful 1080 HD. It feels great.
+I've aquired a new microphone and capture card, and my video quality has improved greatly. Here's my most recent <a src="https://www.youtube.com/watch?v=peP6PO-TVcU">video</a> which I'm not sure how to embed properly because of the quality ironicly. No longer do I have the PS4's side chat display, and my video quality is in wonderful 1080 HD. It feels great.
 
 <a href="https://www.youtube.com/channel/UCVor_a0Czn-3QzytiYLRQWg"><i class="large youtube icon "></i>HeiMao's YouTube Channel</a>
 
