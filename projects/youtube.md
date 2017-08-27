@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/YouTube-logo.png
+image: images/purple-cat-person.png
 title: HeiMao's Gaming Channel
 permalink: projects/youtube
 date: 2016
