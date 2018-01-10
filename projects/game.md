@@ -9,7 +9,7 @@ labels:
   - Pixel Art
   - MS Paint
   - Video Game
-summary: 
+summary: 'Is it lonely at the top of the world?' Is what I ask you the player when you have beaten the final boss. Take a look back at all your encounters and hardships and ask yourself, 'Did I make the right choice?'
 ---
 
 ## The Game
