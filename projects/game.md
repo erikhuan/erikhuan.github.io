@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Title_Sequence.png
+image: images/ILTW.png
 title: My First Video Game Project
 permalink: projects/iltw
 date: 2016
@@ -9,7 +9,7 @@ labels:
   - Pixel Art
   - MS Paint
   - Video Game
-summary: 'Is it lonely at the top of the world?' Is what I ask you the player when you have beaten the final boss. Take a look back at all your encounters and hardships and ask yourself, 'Did I make the right choice?'
+summary: Is it lonely at the top of the world?
 ---
 
 ## The Game
