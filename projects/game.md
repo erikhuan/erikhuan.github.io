@@ -9,7 +9,7 @@ labels:
   - Pixel Art
   - MS Paint
   - Video Game
-summary: Is it lonely at the top of the world?
+summary: Is it lonely on the top of the world?
 ---
 
 ## The Game
